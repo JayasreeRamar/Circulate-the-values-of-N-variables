@@ -31,6 +31,7 @@ def circulate():
 
 ```
 ## Output:
-![OUTPUT](<To circulate the n variables-python programe problem.png>)
+![Alt text](<Screenshot 2023-12-25 101758.png>)
+
 ## Result:
 Thus the python program for circulate the values of n variable is successfully executed.
